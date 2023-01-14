@@ -1,0 +1,56 @@
+* {
+  color: rgb(0, 0, 0);
+}
+
+.bloco1,
+.bloco2 {
+  display: flex;
+  justify-content: center;
+  border-radius: 5vw;
+
+  border: solid 2px #f07f42bc;
+}
+
+.bloco1 {
+  align-items: center;
+}
+
+.bloco3 {
+  border-radius: 2vw;
+  border: solid 2px #f07f42bc;
+}
+
+.conteudo1 {
+  display: flex;
+  justify-content: center;
+  font-size: 5vw;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 10vw;
+  margin-left: 1vw;
+}
+
+a.btn {
+  background-color: #f07f42bc;
+  margin: 1vw 2vw 1vw 0vw;
+  color: white;
+}
+
+header {
+  background-color: #f07f42bc;
+}
+
+h1 {
+  color: #f07f42fa;
+}
+
+.inf {
+  display: flex;
+  justify-content: space-around;
+}

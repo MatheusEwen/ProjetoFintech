@@ -1,0 +1,54 @@
+* {
+  color: rgb(0, 0, 0);
+}
+
+.bloco1,
+.bloco2 {
+  display: flex;
+  justify-content: center;
+  border-radius: 4vw;
+  border: solid 2px #f07f42bc;
+}
+
+.bloco1{
+  margin-right: 1vw;
+}
+
+
+
+.logo {
+  width: 10vw;
+  margin-left: 1vw;
+}
+img{
+  width: 30px;
+  
+}
+a.btn {
+  background-color: #f07f42bc;
+  margin: 1vw 2vw 1vw 0vw;
+  color: white;
+}
+
+header {
+  background-color: #f07f42bc;
+}
+button.btnProprio{
+  background-color: #f07f42ef;
+  font-size: 12px;
+  padding: 10px 20px;
+  color: white;
+}
+
+button.acao{
+  background-color: #f07f42bc;
+  
+  border: none;
+  border-radius: 25px;
+}
+
+
+
+
+
+
